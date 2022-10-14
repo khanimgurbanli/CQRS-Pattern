@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\E-CommerceBooksStore.Application",
+    "\\src\\E-CommerceBooksStore.Application\\E-CommerceBooksStore.Application",
+    "\\src\\E-CommerceBooksStore.Application\\E-CommerceBooksStore.Application\\Features",
+    "\\src\\E-CommerceBooksStore.Application\\E-CommerceBooksStore.Application\\Features\\Commands",
+    "\\src\\E-CommerceBooksStore.Application\\E-CommerceBooksStore.Application\\Features\\Commands\\Genre",
+    "\\src\\E-CommerceBooksStore.Application\\E-CommerceBooksStore.Application\\Features\\Commands\\Genre\\UpdateGenre",
+    "\\src\\E-CommerceBooksStore.Application\\E-CommerceBooksStore.Application\\Features\\Commands\\Publisher",
+    "\\src\\E-CommerceBooksStore.Application\\E-CommerceBooksStore.Application\\Features\\Commands\\Publisher\\DeletePublisher"
+  ],
+  "SelectedNode": "\\E-CommercialBookApp.sln",
+  "PreviewInSolutionExplorer": false
+}

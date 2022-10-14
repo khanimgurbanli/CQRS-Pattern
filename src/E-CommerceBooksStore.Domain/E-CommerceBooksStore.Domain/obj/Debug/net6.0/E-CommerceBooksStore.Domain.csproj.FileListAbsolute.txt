@@ -1,0 +1,12 @@
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain\bin\Debug\net6.0\BookApi.Domain.deps.json
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain\bin\Debug\net6.0\BookApi.Domain.dll
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain\bin\Debug\net6.0\BookApi.Domain.pdb
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain\obj\Debug\net6.0\E-CommerceBooksStore.Domain.csproj.AssemblyReference.cache
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain\obj\Debug\net6.0\E-CommerceBooksStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain\obj\Debug\net6.0\E-CommerceBooksStore.Domain.AssemblyInfoInputs.cache
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain\obj\Debug\net6.0\E-CommerceBooksStore.Domain.AssemblyInfo.cs
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain\obj\Debug\net6.0\E-CommerceBooksStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain\obj\Debug\net6.0\BookApi.Domain.dll
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain\obj\Debug\net6.0\refint\BookApi.Domain.dll
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain\obj\Debug\net6.0\BookApi.Domain.pdb
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain\obj\Debug\net6.0\ref\BookApi.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\bin\Debug\net6.0\BookApi.Application.deps.json
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\bin\Debug\net6.0\BookApi.Application.runtimeconfig.json
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\bin\Debug\net6.0\BookApi.Application.dll
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\bin\Debug\net6.0\BookApi.Application.pdb
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\bin\Debug\net6.0\BookApi.Domain.dll
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\bin\Debug\net6.0\BookApi.Domain.pdb
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\obj\Debug\net6.0\E-CommerceBooksStore.Application.csproj.AssemblyReference.cache
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\obj\Debug\net6.0\E-CommerceBooksStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\obj\Debug\net6.0\E-CommerceBooksStore.Application.AssemblyInfoInputs.cache
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\obj\Debug\net6.0\E-CommerceBooksStore.Application.AssemblyInfo.cs
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\obj\Debug\net6.0\E-CommerceBooksStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\obj\Debug\net6.0\E-CommerceBooksStore.Application.csproj.CopyComplete
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\obj\Debug\net6.0\BookApi.Application.dll
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\obj\Debug\net6.0\refint\BookApi.Application.dll
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\obj\Debug\net6.0\BookApi.Application.pdb
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\obj\Debug\net6.0\E-CommerceBooksStore.Application.genruntimeconfig.cache
+C:\Users\KHANIM\source\repos\E-CommercialBookApp\src\E-CommerceBooksStore.Application\E-CommerceBooksStore.Application\obj\Debug\net6.0\ref\BookApi.Application.dll

@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>BookApi.Application</RootNamespace>
+	  <AssemblyName>BookApi.Application</AssemblyName>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Common\Mapper\" />
+    <Folder Include="Features\Commands\AppUser\EditUser\" />
+    <Folder Include="Features\Commands\AppUser\RemoveUser\" />
+    <Folder Include="Features\Commands\Basket\AddItemToBasket\" />
+    <Folder Include="Features\Commands\Basket\UpdateBasketItem\" />
+    <Folder Include="Features\Commands\Basket\DeleteBasketItem\" />
+    <Folder Include="Features\Commands\BookImageFile\ChangeBookImage\" />
+    <Folder Include="Features\Commands\BookImageFile\DeleteBookImage\" />
+    <Folder Include="Features\Commands\BookImageFile\UploadBookImage\" />
+    <Folder Include="Features\Queries\Basket\GetBasketItems\" />
+    <Folder Include="Features\Queries\BookImageFile\GetBookImages\" />
+    <Folder Include="Features\Queries\Book\GetBook\" />
+    <Folder Include="Features\Queries\Book\GetBooks\" />
+    <Folder Include="Features\Queries\Order\GetOrder\" />
+    <Folder Include="Features\Queries\Order\GetOrders\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+    <PackageReference Include="FluentValidation" Version="11.2.2" />
+    <PackageReference Include="MediatR" Version="11.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain\E-CommerceBooksStore.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
